@@ -37,8 +37,10 @@
 ## Installation / Установка:
 
 ``` bash
-pip install -r requirements.txt
+pip install -r requirements.txt -r local_requirements.txt
 ```
+- `requirement.txt` - only for Streamlit to work (только для работы Streamlit)
+- `local_requirements.txt` - for other files to work, contains `transformers` and `torch` (Для работы других файлов, содержит тяжёлые библиотеки)
 
 ## Preview / Превью:
 
