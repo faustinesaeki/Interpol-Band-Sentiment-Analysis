@@ -1,5 +1,7 @@
 # Interpol-Band-Sentiment-Analysis
 
+Streamlit app: [here](https://interpol-band-sentiment-analysis-mznp87em92qms7fwfvbfyu.streamlit.app/)
+
 ---
 
 ### Important note / Важные замечания:
